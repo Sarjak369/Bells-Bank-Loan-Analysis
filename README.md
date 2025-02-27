@@ -1,9 +1,9 @@
 # Bells Bank Loan Portfolio Analysis
 
-● Created an interactive Tableau dashboard to analyze 38.6K loan applications, tracking MTD funded amounts of $54.0M and
+- Created an interactive Tableau dashboard to analyze 38.6K loan applications, tracking MTD funded amounts of $54.0M and
 repayments of $58.1M, using SQL for ETL and calculations.
 
-● Identified key insights, including 86.2% Good Loans ($370.2M funded, $435.8M repaid), with California leading in
+- Identified key insights, including 86.2% Good Loans ($370.2M funded, $435.8M repaid), with California leading in
 applications and debt consolidation as the top loan purpose, optimizing lending strategies.
 
 ## Problem Statement
