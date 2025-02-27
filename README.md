@@ -37,7 +37,7 @@ Bells Bank, is a fictional bank in the USA and it is one of the top prioritized 
 
 ## Created Dashboard/Report
 ### SUMMARY VIEW
-![dash1](<img width="1027" alt="Screenshot 2025-02-27 at 1 28 10 AM" src="https://github.com/user-attachments/assets/6e5d6c61-ad4a-48b9-acad-de455a9782a1" />)
+<img width="1027" alt="Screenshot 2025-02-27 at 1 28 10 AM" src="https://github.com/user-attachments/assets/6e5d6c61-ad4a-48b9-acad-de455a9782a1" />
 
 ### OVERVIEW VIEW
 ![dash2](<img width="1024" alt="Screenshot 2025-02-27 at 1 28 55 AM" src="https://github.com/user-attachments/assets/184c0f0c-9774-4284-8be7-88c092c9dd43" />)
