@@ -1,5 +1,11 @@
 # Bells Bank Loan Portfolio Analysis
 
+● Created an interactive Tableau dashboard to analyze 38.6K loan applications, tracking MTD funded amounts of $54.0M and
+repayments of $58.1M, using SQL for ETL and calculations.
+
+● Identified key insights, including 86.2% Good Loans ($370.2M funded, $435.8M repaid), with California leading in
+applications and debt consolidation as the top loan purpose, optimizing lending strategies.
+
 ## Problem Statement
 Bells Bank, is a fictional bank in the USA and it is one of the top prioritized bank by people for borrowing loans. The stakeholders of the bank wants to gain insights about the health of banks's loan portfolio and asks the data anlytics team to analyze the historical data to find trends and patterns. These trends and pattern will help in data-driven decision making for the stakeholders and enhance the bank's loan portfolio.
 
@@ -28,20 +34,20 @@ Bells Bank, is a fictional bank in the USA and it is one of the top prioritized 
 ## Dataset
 **financial_loan.csv** : The dataset contains columns like id, address_state, application_type emp_length, emp_title, grade, home_ownership, home_ownership, issus_date, last_credit_pull_date, last_payment_date, loan_status, next_payment_date, member_id, purpose, sub_grade, term, verification_status, annual_income, dti, installment, int_rate, loan_amount, total_acc, total_payment. 
 
-## Dashboard/Report Live here
-https://public.tableau.com/views/BankLoanDashboard_17031803847860/SUMMARY?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ## Created Dashboard/Report
 ### SUMMARY VIEW
-![dash1](https://github.com/guddushah/Bank-Loan-Analysis-Finance_Domain-Tableau/assets/40028193/782c5888-e245-4c7c-bde2-75d6728fa2fd)
+![dash1](<img width="1027" alt="Screenshot 2025-02-27 at 1 28 10 AM" src="https://github.com/user-attachments/assets/6e5d6c61-ad4a-48b9-acad-de455a9782a1" />)
 
 ### OVERVIEW VIEW
-![dash2](https://github.com/guddushah/Bank-Loan-Analysis-Finance_Domain-Tableau/assets/40028193/ebcbe014-2857-4143-855f-2fa64cf173d1)
+![dash2](<img width="1024" alt="Screenshot 2025-02-27 at 1 28 55 AM" src="https://github.com/user-attachments/assets/184c0f0c-9774-4284-8be7-88c092c9dd43" />)
 
 ### DETAILS VIEW
-![bells3](https://github.com/guddushah/Bank-Loan-Analysis-Finance_Domain-Tableau/assets/40028193/3cfd8502-ebc4-4f94-9230-ba65e07cd449)
+![bells3](<img width="1026" alt="Screenshot 2025-02-27 at 1 29 41 AM" src="https://github.com/user-attachments/assets/41e6e88d-e7ea-49c3-b5c7-2da52fd0e2d5" />)
+
 
 ## Key Insights Obtained from the Dashboard
+
 1. Total Loan Application: 38.6K | MTD: 4.3K | MoM: 6.9%
 2. Total Funded Amount: $435.8M | MTD: $54.0M | MoM: 13.0%
 3. Total Amount Received: $473.1M | MTD: $58.1M | MoM: 13.7%
